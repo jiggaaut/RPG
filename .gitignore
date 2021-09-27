@@ -10,6 +10,7 @@ BugTrap-x64.dll
 /dotnet/resources/JiggaautRPG/obj
 /dotnet/resources/JiggaautRPG/.vs
 /dotnet/*.txt
+/kek
 
 # dependencies
 /node_modules
