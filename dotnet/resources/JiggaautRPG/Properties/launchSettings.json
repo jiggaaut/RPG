@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "JiggaautRPG": {
+      "commandName": "Executable",
+      "executablePath": "D:\\work\\server-files\\ragemp-server.exe",
+      "workingDirectory": "D:\\work\\server-files"
+    }
+  }
+}
